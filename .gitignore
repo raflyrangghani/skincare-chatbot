@@ -1,0 +1,15 @@
+# SQLite database
+skincare.db
+
+# Environment variables
+.env
+
+# Python cache and virtual environments
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Conda environments
+*.egg-info/
+condaenv/
